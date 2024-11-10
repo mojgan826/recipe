@@ -1,3 +1,5 @@
+Let's begin!
+
 Here is how you can make a Pancake:
 
 1. In a large mixing bowl, whisk together the flour, sugar, baking powder, baking soda, and salt.
@@ -7,3 +9,5 @@ Here is how you can make a Pancake:
 5. Pour 1/4 cup of batter onto the griddle for each pancake. 
 6. Cook until bubbles form on the surface, then flip and cook for another 1-2 minutes.
 7. Done! Enjoy your pancake.
+
+Enjoy my recipe!
